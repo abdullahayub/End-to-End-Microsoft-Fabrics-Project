@@ -2,6 +2,7 @@
 
 **DirectLake and Power BI**
 - Semantic model direct lake connection between PowerBI report and LakeHouse
+![SematicModelDirectlake](https://github.com/user-attachments/assets/e56093f3-5ae3-43f5-97ab-a12553e42670)
   
 **Data Factory in Microsoft Fabrics**
 - Data Pipeline: Copy of dimmension tables from lakehouse to wraehouse.

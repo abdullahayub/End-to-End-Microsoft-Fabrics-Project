@@ -15,4 +15,7 @@
 ![DataFlow2](https://github.com/user-attachments/assets/ae62d351-6193-45d7-9b79-32900d91335b)
 
 **Data Warehouse in Microsoft Fabrics**
-- KPI’s: Active Users, User Count, Ratings, Orders
+![Warehouse](https://github.com/user-attachments/assets/1ffc9516-0ca1-4f06-9e57-5f014b02a8ea)
+
+**Complete Microsoft Fabrics Video Tour**
+https://github.com/user-attachments/assets/5d06da06-1a0b-4088-8dd1-78be7c63f80e

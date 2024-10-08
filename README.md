@@ -18,4 +18,5 @@
 ![Warehouse](https://github.com/user-attachments/assets/1ffc9516-0ca1-4f06-9e57-5f014b02a8ea)
 
 **Complete Microsoft Fabrics Video Tour**
+
 https://github.com/user-attachments/assets/5d06da06-1a0b-4088-8dd1-78be7c63f80e

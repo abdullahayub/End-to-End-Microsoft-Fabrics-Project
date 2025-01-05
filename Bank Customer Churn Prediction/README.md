@@ -26,6 +26,6 @@ The event that defines the customer's churn is the closing of the customer's ban
 
 https://github.com/user-attachments/assets/0f5ae619-ab88-4a9b-9e1c-8141fe7e360b
 
-**Model Report**
+**Power BI Report**
 
 ![BankCustomerChurn](https://github.com/user-attachments/assets/ccfe18aa-4694-49b0-8c71-6ce3044e5874)

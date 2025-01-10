@@ -53,7 +53,7 @@ Pull the Data file from Azure Data Lake storage and upload to Fabrics Lake House
 
 **Parent Pipeline:**
 
-In which we Orchestrated all these Child Pipeline
+In which we Orchestrated all three Child Pipeline
 
 ![ParentPieline](https://github.com/user-attachments/assets/645d7b69-e963-4269-a7b4-f994f717979a)
 

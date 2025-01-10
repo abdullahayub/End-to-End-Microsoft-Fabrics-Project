@@ -74,3 +74,7 @@ We read data from AWLakeHouse and Ingest data into silver Lake House using Noteb
 
 ## Fabric Data WareHoouse
 
+![DataWareHouse](https://github.com/user-attachments/assets/e8211f46-dbcd-473e-8389-efd8fb1e9f4c)
+
+
+

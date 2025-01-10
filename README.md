@@ -50,11 +50,11 @@ Pull the Data file from Azure Data Lake storage and upload to Fabrics Lake House
 
 ![ADLSPipeline2](https://github.com/user-attachments/assets/11fcaf5f-2622-4be0-a221-e96233e0ce98)
 
+![ADLSFile](https://github.com/user-attachments/assets/eb2d0fa0-2592-4ea2-a321-90fd96be4707)
+
 **Child Pipeline 3:** Created pipeline to run the Data flow called DataFlowJoin.
 
 ![DataFlowPipeline](https://github.com/user-attachments/assets/5a489fe7-0914-4540-9414-393e8b526134)
-
-![ADLSFile](https://github.com/user-attachments/assets/eb2d0fa0-2592-4ea2-a321-90fd96be4707)
 
 **Parent Pipeline:**
 

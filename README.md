@@ -1,4 +1,4 @@
-# Microsoft_Fabric_Workings
+# Microsoft Fabrics Working
 
 **DirectLake and Power BI**
 - Semantic model direct lake connection between PowerBI report and LakeHouse
@@ -21,4 +21,14 @@
 
 https://github.com/user-attachments/assets/5d06da06-1a0b-4088-8dd1-78be7c63f80e
 
+**Child Pipeline 1: Dynamic Pipeline (Get Data from GitHub)**
 
+Our Data source was on GitHub account, get the data from their and pushed into Fabrics Lake house by creating Dynamic Pipeline. 
+
+Created Dynamic Data Pipeline, add three parameters for copying data activity, Relative URL (base URL), Destination (Sink_Folder_name And Sink_File_name).
+
+Created git.Json file where the links of these (parameters) were stored in the form of dictionary.
+
+Lookup Activity (FileNames), this will fetch all the URL’s, all folder names and file names. Applied Foreach Loop (ForAllFiles) performed Copy Activity.
+
+![Dynamicpipeline](https://github.com/user-attachments/assets/e4a677ff-9705-4638-8ec2-b5252bdc8e07)

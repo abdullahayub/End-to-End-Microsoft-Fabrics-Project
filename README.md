@@ -31,4 +31,13 @@ Created git.Json file where the links of these (parameters) were stored in the f
 
 Lookup Activity (FileNames), this will fetch all the URL’s, all folder names and file names. Applied Foreach Loop (ForAllFiles) performed Copy Activity.
 
+![DPipeline1](https://github.com/user-attachments/assets/ee683d47-2ff0-4d4a-bcf3-f111a3b5f6a9)
+
 ![Dynamicpipeline](https://github.com/user-attachments/assets/e4a677ff-9705-4638-8ec2-b5252bdc8e07)
+
+**Data Flow**
+
+Created Data flows, execute ETL Process extract two tables from existing Lake house, perform some transformation and then merge the tables applied Left join primary key of one table with the foreign key of other table. Add destination to the AWLakeHouse.
+
+![DataFlow1](https://github.com/user-attachments/assets/f99c7790-d02b-48fb-8e01-749a6f77eb0d)
+

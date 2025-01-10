@@ -21,7 +21,7 @@
 
 https://github.com/user-attachments/assets/5d06da06-1a0b-4088-8dd1-78be7c63f80e
 
-## Data Pipeline Activity
+## Data Pipeline Activities
 
 **Child Pipeline 1: Dynamic Pipeline (Get Data from GitHub)**
 

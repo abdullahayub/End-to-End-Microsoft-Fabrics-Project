@@ -41,3 +41,20 @@ Created Data flows, execute ETL Process extract two tables from existing Lake ho
 
 ![DataFlow1](https://github.com/user-attachments/assets/f99c7790-d02b-48fb-8e01-749a6f77eb0d)
 
+**Child Pipeline 2: Azure Data Lake Storage Gen2 Pipeline**
+
+Pull the Data file from Azure Data Lake storage and upload to Fabrics Lake House by creating Copy Activity Pipeline. Make connection between Fabrics Data Lake and Azure Data Lake storage account.
+
+![ADLSPipeline2](https://github.com/user-attachments/assets/11fcaf5f-2622-4be0-a221-e96233e0ce98)
+
+**Child Pipeline 3:** Created pipeline to run the Data flow called DataFlowJoin.
+
+![DataFlowPipeline](https://github.com/user-attachments/assets/5a489fe7-0914-4540-9414-393e8b526134)
+
+**Parent Pipeline:**
+
+In which we Orchestrated all these Child Pipeline
+
+![ParentPieline](https://github.com/user-attachments/assets/645d7b69-e963-4269-a7b4-f994f717979a)
+
+

@@ -21,6 +21,8 @@
 
 https://github.com/user-attachments/assets/5d06da06-1a0b-4088-8dd1-78be7c63f80e
 
+## Data Pipeline Activity
+
 **Child Pipeline 1: Dynamic Pipeline (Get Data from GitHub)**
 
 Our Data source was on GitHub account, get the data from their and pushed into Fabrics Lake house by creating Dynamic Pipeline. 

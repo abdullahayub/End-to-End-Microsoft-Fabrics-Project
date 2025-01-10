@@ -76,5 +76,9 @@ We read data from AWLakeHouse and Ingest data into silver Lake House using Noteb
 
 ![DataWareHouse](https://github.com/user-attachments/assets/e8211f46-dbcd-473e-8389-efd8fb1e9f4c)
 
+**Created View SQL Querie**
+
+![Created View](https://github.com/user-attachments/assets/fae95c7e-2aa6-4924-8fc6-fc53970e62e7)
+
 
 

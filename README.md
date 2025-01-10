@@ -54,6 +54,8 @@ Pull the Data file from Azure Data Lake storage and upload to Fabrics Lake House
 
 ![DataFlowPipeline](https://github.com/user-attachments/assets/5a489fe7-0914-4540-9414-393e8b526134)
 
+![ADLSFile](https://github.com/user-attachments/assets/eb2d0fa0-2592-4ea2-a321-90fd96be4707)
+
 **Parent Pipeline:**
 
 In which we Orchestrated all three Child Pipeline

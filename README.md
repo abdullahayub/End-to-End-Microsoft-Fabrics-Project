@@ -63,3 +63,12 @@ In which we Orchestrated all three Child Pipeline
 ![ParentPieline](https://github.com/user-attachments/assets/645d7b69-e963-4269-a7b4-f994f717979a)
 
 ## Fabric Data Engineering
+
+We read data from AWLakeHouse and Ingest data into silver Lake House using Notebook (PySpark) with some transformations on to the data tables. Create Notebook and read the data tables, transformed it pushed into silver lake house into the Delta Format.
+
+![SilverNotebook](https://github.com/user-attachments/assets/da48d21c-537b-46d4-bd41-3cad4aee0120)
+
+**Silver LakeHouse**
+
+![LakeHouseSilver](https://github.com/user-attachments/assets/31592f76-4a5d-4abf-b5d1-df20401488a1)
+

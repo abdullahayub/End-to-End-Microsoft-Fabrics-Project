@@ -90,7 +90,7 @@ We read data from AWLakeHouse and Ingest data into silver Lake House using Noteb
 
 https://github.com/user-attachments/assets/161b81bf-19df-4993-ab1a-5be6c411cd15
 
-**Transformation using Data Wrangling**
+### Transformation using Data Wrangling
 
 ![Image](https://github.com/user-attachments/assets/596a8983-888b-48b1-bf61-e0d5017ea619)
 

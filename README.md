@@ -80,5 +80,9 @@ We read data from AWLakeHouse and Ingest data into silver Lake House using Noteb
 
 ![Created View](https://github.com/user-attachments/assets/fae95c7e-2aa6-4924-8fc6-fc53970e62e7)
 
+**Data Modelling - Star Schema**
+
+![Image](https://github.com/user-attachments/assets/b57a50ed-cfde-47b2-bc67-f976fb1985c2)
+
 
 
